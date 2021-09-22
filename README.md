@@ -10,6 +10,6 @@ Presentation: [https://youtu.be/xAIIlrIr9sY?t=1960](https://youtu.be/xAIIlrIr9sY
 
 I'd like to also express my gratitude to all the participants that were involved in this project with me:
 
-![alt text](https://github.com/pradoprojects/Self-Learning-App/blob/teamAsana.png?raw=true)
+![alt text](https://github.com/pradoprojects/Self-Learning-App/blob/main/teamAsana.png?raw=true)
 
 
