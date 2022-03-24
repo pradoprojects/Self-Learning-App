@@ -1,5 +1,11 @@
 # 📱 → 🎓 | Self-Learning-App 
 
+<br/>
+<div align="center">                                                             
+  <img src="./LetMhelp!Compact.svg" alt="Project APB thumbnail">
+</div>  
+<br/>
+
 <section>
 <div align="justify">
 <br/>
@@ -15,8 +21,13 @@ Figma Project: [https://www.figma.com/community/file/1019338854923042861/Self-Te
 
 Presentation: [https://youtu.be/xAIIlrIr9sY?t=1960](https://youtu.be/xAIIlrIr9sY?t=1960)
 
-I'd like to thank all the amazing teammates that were involved in this project with me:
+<br/>
+<div align="center">  
+<h2>
+Thank you to all the amazing teammates involved in this project with me!
+</h2>
+<img src="./teamAsana.png" alt="Team Asana">
+</div>  
 
-![alt text](https://github.com/pradoprojects/Self-Learning-App/blob/main/teamAsana.png?raw=true)
-
+</section>
 
