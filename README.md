@@ -26,7 +26,7 @@ Presentation: [https://youtu.be/xAIIlrIr9sY?t=1960](https://youtu.be/xAIIlrIr9sY
 <h2>
 Thank you to all the amazing teammates involved in this project with me!
 </h2>
-<img src="./teamAsana.png" alt="Team Asana">
+<img width="80%" height="80%" src="./teamAsana.png" alt="Team Asana">
 </div>  
 
 </section>
