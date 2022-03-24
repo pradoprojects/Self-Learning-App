@@ -1,10 +1,10 @@
-# Self-Learning-App 📲
+# 📲 | Self-Learning-App 
 
 <section>
 <div align="justify">
 <br/>
 <p>
-This project was designed under the Reskill Americans Program as a team project carried by me and my teammates. The problem statement for our team established that we had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. Most of the high-level requirements were pre-defined by the program. I was the UX designer of my team and my responsibilities involved going through the Defining, Ideating, Prototyping stages. Here you can access the low-fidelity and high-fidelity prototypes of the App that resulted from this project. I was also responsible for defining and designing the name and logo of the App (LetMHelp!).
+This project was designed under the Reskill Americans Program as a team project carried by me and my teammates. The problem statement for our team established that we had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. Most of the high-level requirements were pre-defined by the program. I was the UX designer of my team and my responsibilities involved going through the Defining, Ideating, Prototyping stages. Here you can access the low-fidelity and high-fidelity prototypes of the App that resulted from this project. I was also responsible for defining and designing the name and logo of the App "LetMHelp!" .
 </p>
   
 
