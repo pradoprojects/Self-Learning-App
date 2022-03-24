@@ -1,4 +1,4 @@
-# 📲 | Self-Learning-App 
+# 📱 → 🎓 | Self-Learning-App 
 
 <section>
 <div align="justify">
