@@ -17,7 +17,7 @@ This project was designed under the Reskill Americans Program as a team project 
 In this repo, you can find my certificate, the description of the problem ([Project Brief](https://github.com/pradoprojects/Self-Learning-App/blob/main/Project%20Brief%20-%20Asana.pdf)) containing some high-level requirements, as well as the SVG files of the logo. You can also find the link to the Figma Project and my presentation below.
 </p>
   
-Figma Project: [https://www.figma.com/community/file/1019338854923042861/Self-Teaching-App](https://www.figma.com/community/file/1019338854923042861/Self-Teaching-App)
+Figma Project: [https://www.figma.com/file/JoFlxJ04i4SFyT0WPBiLqB/LetMhelp!?node-id=100%3A2114](https://www.figma.com/file/JoFlxJ04i4SFyT0WPBiLqB/LetMhelp!?node-id=100%3A2114)
 
 Presentation: [https://youtu.be/xAIIlrIr9sY?t=1960](https://youtu.be/xAIIlrIr9sY?t=1960)
 
