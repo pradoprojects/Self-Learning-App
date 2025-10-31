@@ -2,7 +2,7 @@
 
 <br/>
 <div align="center">                                                             
-  <img  src="./LetMeLogo.png" alt="Project APB thumbnail" >
+  <img  width="50%" height="50%" src="./LetMeLogo.png" alt="Project APB thumbnail" >
 </div>  
 <br/>
 
