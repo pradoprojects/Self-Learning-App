@@ -11,7 +11,7 @@
 <br/>
 <p>
 
-**Figma Project**: [https://www.figma.com/file/JoFlxJ04i4SFyT0WPBiLqB/LetMhelp!?node-id=100%3A2114](https://www.figma.com/file/JoFlxJ04i4SFyT0WPBiLqB/LetMhelp!?node-id=100%3A2114)
+**Figma Project**: [https://www.figma.com/community/file/1149130819259643700/letmhelp)
 
 <!--**Presentation**: [https://youtu.be/xAIIlrIr9sY?t=1960](https://youtu.be/xAIIlrIr9sY?t=1960)-->
 
