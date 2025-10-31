@@ -2,7 +2,7 @@
 
 <br/>
 <div align="center">                                                             
-  <img src="./LetMhelp!Compact.svg" alt="Project APB thumbnail">
+  <img src="./LetMeLogo.png" alt="Project APB thumbnail">
 </div>  
 <br/>
 
