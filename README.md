@@ -16,7 +16,7 @@
 <!--**Presentation**: [https://youtu.be/xAIIlrIr9sY?t=1960](https://youtu.be/xAIIlrIr9sY?t=1960)-->
 
 
-This project was designed for an online course. The problem statement established that I had to design and implement an App to support self-learning students to find and connect to voluntary tutors in the tech field. Most of the high-level requirements were pre-defined. My responsibilities involved going through the Defining, Ideating, Prototyping stages. Here you can access the low-fidelity and high-fidelity prototypes of the App that resulted from this project.
+This project was designed for an online course. The problem statement established that I had to design an App to support self-learning students to find and connect to voluntary tutors in the tech field. Most of the high-level requirements were pre-defined. My responsibilities involved going through the Defining, Ideating, Prototyping stages. Here you can access the low-fidelity and high-fidelity prototypes of the App that resulted from this project.
 </p>
 
   
